@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="GROUP A">
+    <menu>
+        <item
+            android:id="@+id/nav1"
+            android:title="A"/>
+        <item
+            android:id="@+id/nav2"
+            android:title="B"/>
+        <item
+            android:id="@+id/nav3"
+            android:title="C"/>
+    </menu>
+    </item>
+
+
+    <item android:title="GROUP B">
+    <menu>
+        <item
+            android:id="@+id/nav4"
+            android:title="E"/>
+        <item
+            android:id="@+id/nav5"
+            android:title="F"/>
+        <item
+            android:id="@+id/nav6"
+            android:title="G"/>
+    </menu>
+    </item>
+</menu>
